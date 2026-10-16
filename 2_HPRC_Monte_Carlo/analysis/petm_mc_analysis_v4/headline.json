@@ -1,0 +1,15 @@
+{
+  "source_files": 60,
+  "total_rows": 12000,
+  "successful_model_runs": 12000,
+  "initial_states": 40,
+  "group2_designs": 300,
+  "warming_filtered": 4452,
+  "pacific_ccd_success": 127,
+  "pacific_2900_success_strict_test": 43,
+  "pacific_two_depth_success_strict_test": 43,
+  "atlantic_success": 3720,
+  "joint_success": 62,
+  "joint_fraction_filtered": 0.013926325247079964,
+  "joint_fraction_given_pacific": 0.4881889763779528
+}
