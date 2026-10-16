@@ -1,0 +1,254 @@
+repository_path,provenance
+.gitignore,Current packaged input/output; see README
+1_intermodel_comparison/Zeebe2009emi.dat,Current packaged input/output; see README
+1_intermodel_comparison/data/fig1_fsed.xlsx,Current packaged input/output; see README
+1_intermodel_comparison/data/gutjahr_d13c.csv,Current packaged input/output; see README
+1_intermodel_comparison/data/gutjahr_ph.csv,Current packaged input/output; see README
+1_intermodel_comparison/figures/fig1_scenario_comparison_0_50kyr_fsed_grl.pdf,Current packaged input/output; see README
+1_intermodel_comparison/figures/fig1_scenario_comparison_0_50kyr_fsed_grl.png,Current packaged input/output; see README
+1_intermodel_comparison/gutjahr2017_fsed.dat,Current packaged input/output; see README
+1_intermodel_comparison/iloscar_backend.py,code/iloscar_backend.py (current implementation)
+1_intermodel_comparison/model_outputs/gutjahr2017_fsed/Carbon_inventory.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/gutjahr2017_fsed/Surface_dic_alk_d13c_ph.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/gutjahr2017_fsed/alk.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/gutjahr2017_fsed/ccd.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/gutjahr2017_fsed/co3.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/gutjahr2017_fsed/d13c.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/gutjahr2017_fsed/dic.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/gutjahr2017_fsed/dicc.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/gutjahr2017_fsed/double_inversion_emission_d13c_pH.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/gutjahr2017_fsed/double_inversion_emission_pH.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/gutjahr2017_fsed/dox.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/gutjahr2017_fsed/fca.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/gutjahr2017_fsed/fcca.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/gutjahr2017_fsed/fcci.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/gutjahr2017_fsed/fccp.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/gutjahr2017_fsed/fcct.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/gutjahr2017_fsed/fci.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/gutjahr2017_fsed/fcp.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/gutjahr2017_fsed/fct.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/gutjahr2017_fsed/fcv_average.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/gutjahr2017_fsed/flux.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/gutjahr2017_fsed/omegaarg.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/gutjahr2017_fsed/omegaclc.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/gutjahr2017_fsed/pCO2_d13c.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/gutjahr2017_fsed/pco2ocn.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/gutjahr2017_fsed/ph.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/gutjahr2017_fsed/po4.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/gutjahr2017_fsed/summary.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/gutjahr2017_fsed/tcb.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/gutjahr2017_fsed/time.dat,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/this_study/Carbon_inventory.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/this_study/Surface_dic_alk_d13c_ph.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/this_study/alk.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/this_study/ccd.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/this_study/co3.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/this_study/d13c.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/this_study/dic.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/this_study/dicc.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/this_study/double_inversion_emission_d13c_pH.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/this_study/double_inversion_emission_pH.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/this_study/dox.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/this_study/fca.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/this_study/fcca.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/this_study/fcci.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/this_study/fccp.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/this_study/fcct.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/this_study/fci.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/this_study/fcp.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/this_study/fct.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/this_study/fcv_average.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/this_study/flux.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/this_study/omegaarg.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/this_study/omegaclc.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/this_study/pCO2_d13c.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/this_study/pco2ocn.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/this_study/ph.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/this_study/po4.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/this_study/summary.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/this_study/tcb.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/this_study/time.dat,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/zeebe2009_fsed/Carbon_inventory.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/zeebe2009_fsed/Surface_dic_alk_d13c_ph.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/zeebe2009_fsed/alk.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/zeebe2009_fsed/ccd.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/zeebe2009_fsed/co3.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/zeebe2009_fsed/d13c.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/zeebe2009_fsed/dic.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/zeebe2009_fsed/dicc.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/zeebe2009_fsed/dox.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/zeebe2009_fsed/fca.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/zeebe2009_fsed/fcca.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/zeebe2009_fsed/fcci.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/zeebe2009_fsed/fccp.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/zeebe2009_fsed/fcct.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/zeebe2009_fsed/fci.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/zeebe2009_fsed/fcp.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/zeebe2009_fsed/fct.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/zeebe2009_fsed/fcv_average.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/zeebe2009_fsed/flux.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/zeebe2009_fsed/omegaarg.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/zeebe2009_fsed/omegaclc.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/zeebe2009_fsed/pCO2_d13c.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/zeebe2009_fsed/pco2ocn.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/zeebe2009_fsed/ph.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/zeebe2009_fsed/po4.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/zeebe2009_fsed/summary.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/zeebe2009_fsed/tcb.csv,Current packaged input/output; see README
+1_intermodel_comparison/model_outputs/zeebe2009_fsed/time.dat,Current packaged input/output; see README
+1_intermodel_comparison/myami_ca_mg_coeff_table.npz,Current packaged input/output; see README
+1_intermodel_comparison/petm_steady_fsed.dat,Current packaged input/output; see README
+1_intermodel_comparison/plot_fig1_grl_style.py,Current packaged input/output; see README
+1_intermodel_comparison/run_simulation.py,Independent scenarios extracted from code/Experiments_updated_FSED.ipynb
+2_HPRC_Monte_Carlo/analysis/petm_mc_analysis_v4/combined_results_v4.csv,outputs/petm_mc_analysis_v4/combined_results_v4.csv
+2_HPRC_Monte_Carlo/analysis/petm_mc_analysis_v4/combined_results_v4_deltaT_4p5_to_6p5.csv,outputs/petm_mc_analysis_v4/combined_results_v4_deltaT_4p5_to_6p5.csv
+2_HPRC_Monte_Carlo/analysis/petm_mc_analysis_v4/fig1_interbasin_ccd.pdf,outputs/petm_mc_analysis_v4/fig1_interbasin_ccd.pdf
+2_HPRC_Monte_Carlo/analysis/petm_mc_analysis_v4/fig1_interbasin_ccd.png,outputs/petm_mc_analysis_v4/fig1_interbasin_ccd.png
+2_HPRC_Monte_Carlo/analysis/petm_mc_analysis_v4/fig2_pacific_depth_constraints.pdf,outputs/petm_mc_analysis_v4/fig2_pacific_depth_constraints.pdf
+2_HPRC_Monte_Carlo/analysis/petm_mc_analysis_v4/fig2_pacific_depth_constraints.png,outputs/petm_mc_analysis_v4/fig2_pacific_depth_constraints.png
+2_HPRC_Monte_Carlo/analysis/petm_mc_analysis_v4/fig3_joint_parameter_distributions.pdf,outputs/petm_mc_analysis_v4/fig3_joint_parameter_distributions.pdf
+2_HPRC_Monte_Carlo/analysis/petm_mc_analysis_v4/fig3_joint_parameter_distributions.png,outputs/petm_mc_analysis_v4/fig3_joint_parameter_distributions.png
+2_HPRC_Monte_Carlo/analysis/petm_mc_analysis_v4/fig4_binned_success_rates.pdf,outputs/petm_mc_analysis_v4/fig4_binned_success_rates.pdf
+2_HPRC_Monte_Carlo/analysis/petm_mc_analysis_v4/fig4_binned_success_rates.png,outputs/petm_mc_analysis_v4/fig4_binned_success_rates.png
+2_HPRC_Monte_Carlo/analysis/petm_mc_analysis_v4/fig5_initial_state_success.pdf,outputs/petm_mc_analysis_v4/fig5_initial_state_success.pdf
+2_HPRC_Monte_Carlo/analysis/petm_mc_analysis_v4/fig5_initial_state_success.png,outputs/petm_mc_analysis_v4/fig5_initial_state_success.png
+2_HPRC_Monte_Carlo/analysis/petm_mc_analysis_v4/group2_summary.csv,outputs/petm_mc_analysis_v4/group2_summary.csv
+2_HPRC_Monte_Carlo/analysis/petm_mc_analysis_v4/headline.json,outputs/petm_mc_analysis_v4/headline.json
+2_HPRC_Monte_Carlo/analysis/petm_mc_analysis_v4/joint_successes.csv,outputs/petm_mc_analysis_v4/joint_successes.csv
+2_HPRC_Monte_Carlo/analysis/petm_mc_analysis_v4/parameter_profiles.csv,outputs/petm_mc_analysis_v4/parameter_profiles.csv
+2_HPRC_Monte_Carlo/analysis/petm_mc_analysis_v4/state_summary.csv,outputs/petm_mc_analysis_v4/state_summary.csv
+2_HPRC_Monte_Carlo/analysis/petm_mc_analysis_v4/threshold_sensitivity.csv,outputs/petm_mc_analysis_v4/threshold_sensitivity.csv
+2_HPRC_Monte_Carlo/analyze_mc_results.py,"code/analyze_petm_mc_v2.py; restricted to v4, updated paths"
+2_HPRC_Monte_Carlo/iloscar_backend.py,code/iloscar_backend.py (current implementation)
+2_HPRC_Monte_Carlo/main_job.sh,Current packaged input/output; see README
+2_HPRC_Monte_Carlo/mc_accepted_runs.csv,Recovered from consistent parameter columns in code/hprc_fsed/second_stage_results_v4/batch_*_results.csv
+2_HPRC_Monte_Carlo/mc_group2_samples.csv,Recovered from consistent parameter columns in code/hprc_fsed/second_stage_results_v4/batch_*_results.csv
+2_HPRC_Monte_Carlo/mc_inv_ph.csv,Current packaged input/output; see README
+2_HPRC_Monte_Carlo/myami_ca_mg_coeff_table.npz,Current packaged input/output; see README
+2_HPRC_Monte_Carlo/run_second_stage_one_job.py,"Updated code/hprc_fsed/run_second_stage_one_job.py for current backend, v4 fields and isolated working directories"
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0000_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0000_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0001_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0001_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0002_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0002_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0003_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0003_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0004_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0004_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0005_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0005_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0006_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0006_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0007_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0007_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0008_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0008_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0009_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0009_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0010_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0010_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0011_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0011_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0012_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0012_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0013_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0013_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0014_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0014_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0015_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0015_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0016_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0016_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0017_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0017_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0018_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0018_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0019_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0019_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0020_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0020_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0021_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0021_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0022_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0022_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0023_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0023_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0024_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0024_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0025_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0025_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0026_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0026_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0027_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0027_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0028_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0028_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0029_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0029_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0030_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0030_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0031_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0031_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0032_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0032_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0033_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0033_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0034_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0034_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0035_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0035_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0036_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0036_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0037_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0037_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0038_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0038_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0039_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0039_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0040_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0040_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0041_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0041_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0042_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0042_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0043_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0043_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0044_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0044_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0045_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0045_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0046_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0046_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0047_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0047_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0048_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0048_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0049_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0049_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0050_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0050_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0051_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0051_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0052_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0052_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0053_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0053_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0054_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0054_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0055_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0055_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0056_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0056_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0057_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0057_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0058_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0058_results.csv
+2_HPRC_Monte_Carlo/second_stage_results_v4/batch_0059_results.csv,code/hprc_fsed/second_stage_results_v4/batch_0059_results.csv
+2_HPRC_Monte_Carlo/spinup_states.py,New reconstruction from v4 Group I parameters; original v4 states unavailable
+2_HPRC_Monte_Carlo/submit.sh,Current packaged input/output; see README
+3_Illustrative_examples/emi_rw.dat,Current packaged input/output; see README
+3_Illustrative_examples/iloscar_backend.py,code/iloscar_backend.py (current implementation)
+3_Illustrative_examples/myami_ca_mg_coeff_table.npz,Current packaged input/output; see README
+3_Illustrative_examples/petm_steady_fsed.dat,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_no_rw/Carbon_inventory.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_no_rw/Surface_dic_alk_d13c_ph.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_no_rw/alk.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_no_rw/ccd.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_no_rw/co3.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_no_rw/d13c.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_no_rw/dic.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_no_rw/dicc.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_no_rw/dox.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_no_rw/fca.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_no_rw/fcca.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_no_rw/fcci.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_no_rw/fccp.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_no_rw/fcct.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_no_rw/fci.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_no_rw/fcp.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_no_rw/fct.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_no_rw/fcv_average.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_no_rw/flux.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_no_rw/omegaarg.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_no_rw/omegaclc.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_no_rw/pCO2_d13c.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_no_rw/pco2ocn.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_no_rw/ph.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_no_rw/po4.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_no_rw/summary.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_no_rw/tcb.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_no_rw/time.dat,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_rw/Carbon_inventory.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_rw/Surface_dic_alk_d13c_ph.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_rw/alk.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_rw/ccd.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_rw/co3.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_rw/d13c.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_rw/dic.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_rw/dicc.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_rw/dox.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_rw/fca.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_rw/fcca.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_rw/fcci.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_rw/fccp.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_rw/fcct.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_rw/fci.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_rw/fcp.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_rw/fct.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_rw/fcv_average.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_rw/flux.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_rw/omegaarg.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_rw/omegaclc.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_rw/pCO2_d13c.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_rw/pco2ocn.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_rw/ph.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_rw/po4.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_rw/summary.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_rw/tcb.csv,Current packaged input/output; see README
+3_Illustrative_examples/petm_test_rw/time.dat,Current packaged input/output; see README
+3_Illustrative_examples/plot_alkalinity_feedback_figure3.py,Current packaged input/output; see README
+3_Illustrative_examples/run_simulation.py,Independent scenarios extracted from code/Experiments_updated_FSED.ipynb
+README.md,Current packaged input/output; see README
+requirements.txt,Current packaged input/output; see README
